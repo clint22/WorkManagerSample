@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WorkManagerSample</string>
+    <string name="download_image">Download Image</string>
+</resources>
